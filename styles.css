@@ -15,12 +15,13 @@
 
   p{ /* establecemos que todos los p son de un color */
     color:blue;
-
-
   }
-
-  .rojo{ /*creamos la clase rojo*/
+   p.red {
     color: red;
+   }
+
+  .blue{ /*creamos la clase rojo*/
+    color: rgb(78, 30, 211);
   }
   .verde{
     color: green;
