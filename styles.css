@@ -25,3 +25,16 @@
   .verde{
     color: green;
   }
+
+  #primerId{
+    color:blueviolet;
+  }
+
+  #segundoId{
+    animation: forwards;
+    color: chartreuse;
+  }
+  #tercerIdAnidado{
+    color: black;
+    font-weight: bold;
+  }
